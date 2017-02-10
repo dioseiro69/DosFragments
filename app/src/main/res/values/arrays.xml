@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_enlaces_tutoriales_Android">
+        <item>Marca</item>
+        <item>3DJuegos</item>
+        <item>Steam</item>
+    </string-array>
+
+    <string-array name="urls_enlaces_tutoriales_Android">
+        <item>http://www.marca.com/</item>
+        <item>http://www.3djuegos.com/</item>
+        <item>http://store.steampowered.com/?l=spanish</item>
+    </string-array>
+
+
+</resources>
